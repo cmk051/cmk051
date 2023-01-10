@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=6DC4DB&height=300&section=header&text=SanghyunPark&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=000000&height=300&section=header&text=SanghyunPark&fontSize=60" />
 
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
