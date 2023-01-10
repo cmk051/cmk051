@@ -29,9 +29,9 @@
 <br/>
 <br/>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cmk051&show_icons=true&theme=tokyonight)
+<!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cmk051&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmk051&layout=compact&theme=tokyonight)
-
+ -->
 <!--
 **cmk051/cmk051** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
