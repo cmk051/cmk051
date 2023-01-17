@@ -1,5 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ADBAC7&height=300&section=header&text=SanghyunPark&fontSize=60" />
 
+<h3 align="center">공부 후 기록으로 남기지 않으면 아무도 알아주지 않는다. 😀<h3/>
+
 <div align=center><h1>📚 STACKS</h1></div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
